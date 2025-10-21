@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "ComponentLogin"
 include(":app")
 include(":logincomponent")
+include(":registercomponent")
+include(":homecomponent")

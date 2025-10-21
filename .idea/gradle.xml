@@ -11,7 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/homecomponent" />
             <option value="$PROJECT_DIR$/logincomponent" />
+            <option value="$PROJECT_DIR$/registercomponent" />
           </set>
         </option>
       </GradleProjectSettings>
